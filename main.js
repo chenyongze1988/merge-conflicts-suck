@@ -1,2 +1,2 @@
 var num=50;
-va truth="Hello sudo Earth";
+va truth="Hello cats";
