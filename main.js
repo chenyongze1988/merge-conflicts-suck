@@ -1,2 +1,2 @@
 var num=50;
-va truth="Hello world";
+va truth="Hello Flatter Earth";
